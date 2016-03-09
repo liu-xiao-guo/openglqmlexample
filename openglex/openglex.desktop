@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=openglex
+Exec=openglex
+Icon=openglex/openglex.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

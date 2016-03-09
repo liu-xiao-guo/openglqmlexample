@@ -1,0 +1,17 @@
+{
+    "name": "openglex.liu-xiao-guo",
+    "description": "description of openglex",
+    "architecture": "@CLICK_ARCH@",
+    "title": "openglex",
+    "hooks": {
+        "openglex": {
+            "apparmor": "openglex/openglex.apparmor",
+            "desktop":  "openglex/openglex.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
